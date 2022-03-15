@@ -13,7 +13,9 @@ public class Applettt extends Applet{
     public void Pain(Graphics g){
         g.drawString("Yep",300, 300);
     }
-    
+    public void Stop(){
+        System.exit(0);
+    }
 }
 /* 
 <applet code="Applettt.class" width="300" height="300"> 
