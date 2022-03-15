@@ -1,0 +1,3 @@
+protein : 329,375
+FAT : 88g
+Carb : 131,75

@@ -1,0 +1,5 @@
+Userroot : trinhthanhthuy
+passroot : thanhthuy
+*************
+Usercacti : admin
+passcacti : T@hanhthuy123
